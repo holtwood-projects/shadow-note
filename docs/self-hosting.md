@@ -13,7 +13,7 @@ This guide covers the recommended Docker deployment. For local development see t
 ## Quick Start
 
 ```bash
-git clone https://github.com/build-workbench/shadow-note.git
+git clone https://github.com/holtwood-projects/shadow-note.git
 cd shadow-note
 
 # optional: adjust the public origin / port
